@@ -18,26 +18,26 @@
 ### 效果展示
 
 
-![image](/home/picture/001.png)
+![image](https://github.com/al1020119/yii-admin/blob/master/images/001.png)
 
-![image](/home/picture/002.png)
+![image](https://github.com/al1020119/yii-admin/blob/master/images/002.png)
 
-![image](/home/picture/003.png)
+![image](https://github.com/al1020119/yii-admin/blob/master/images/003.png)
 
-![image](/home/picture/004.png)
+![image](https://github.com/al1020119/yii-admin/blob/master/images/004.png)
 
-![image](/home/picture/005.png)
+![image](https://github.com/al1020119/yii-admin/blob/master/images/005.png)
 
-![image](/home/picture/006.png)
+![image](https://github.com/al1020119/yii-admin/blob/master/images/006.png)
 
-![image](/home/picture/007.png)
+![image](https://github.com/al1020119/yii-admin/blob/master/images/007.png)
 
-![image](/home/picture/008.png)
+![image](https://github.com/al1020119/yii-admin/blob/master/images/008.png)
 
-![image](/home/picture/009.png)
+![image](https://github.com/al1020119/yii-admin/blob/master/images/009.png)
 
-![image](/home/picture/010.png)
+![image](https://github.com/al1020119/yii-admin/blob/master/images/010.png)
 
-![image](/home/picture/011.png)
+![image](https://github.com/al1020119/yii-admin/blob/master/images/011.png)
 
-![image](/home/picture/012.png)
+![image](https://github.com/al1020119/yii-admin/blob/master/images/012.png)
